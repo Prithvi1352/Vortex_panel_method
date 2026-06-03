@@ -4,7 +4,7 @@
 portfolio project.
 
 ## Physics
-- Constant-strength vortex panel method (Katz & Plotkin §3.14)
+- Constant-strength vortex panel method 
 - Thwaites laminar boundary layer (Thwaites 1949)
 - Michel transition criterion (Michel 1951)
 - Head turbulent boundary layer (Head 1958)
